@@ -37,5 +37,5 @@ SELL_THRESHOLD=300
 ---
 ## Donate
 
-👉👌 6vT7nrqtbXDWVc8cRUtifxgfDZi19aW7qhcZg2hSepwb
+paypal : quangydungforever@gmail.com
 
